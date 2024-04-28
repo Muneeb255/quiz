@@ -1,0 +1,32 @@
+h1{
+    color: rgb(123, 255, 0);
+    text-decoration: solid;
+    text-decoration: dashed;
+}
+nav { position: fixed; top: 0; right: 0; background-color: transparent; }
+nav ul { list-style-type: none; margin: 0; padding: 0; }
+nav ul li { display: inline; margin-left: 20px; }
+nav ul li a { color: yellow; text-decoration: none; }
+
+h2{
+    
+    
+    color: blanchedalmond;
+    justify-content: center;
+    text-align: center;
+}
+div{
+    color: blanchedalmond;
+    text-align: center;
+    justify-content: center;
+}
+div{
+    color: blanchedalmond;
+    text-align: center;
+    justify-content: center;
+}
+h2, div {
+    color: blanchedalmond;
+    margin: 0 auto;
+    width: fit-content;
+}
